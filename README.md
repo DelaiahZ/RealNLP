@@ -1,5 +1,5 @@
 # RealNLP
-natural language processing integrated development tools for personal
+Real, derived from the meaning of the Spanish royal. Natural Language Processing Integrated Development Tools for personal. 
 
 # 基础模块
 1. 分词（中文）
@@ -10,3 +10,4 @@ natural language processing integrated development tools for personal
 1. 文本纠错（中文）
 2. 语法纠错（英文）
 
+# 参考论文
